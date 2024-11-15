@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ion Popescu",
+    "email": "ion.popescu@example.com",
+    "phone": "+40 712 345 678"
+  },
+  {
+    "id": 2,
+    "name": "Maria Ionescu",
+    "email": "maria.ionescu@example.com",
+    "phone": "+40 721 234 567"
+  },
+  {
+    "id": 4,
+    "name": "Elena Georgescu",
+    "email": "elena.georgescu@example.com",
+    "phone": "+40 732 345 901"
+  },
+  {
+    "id": 5,
+    "name": "Mihai Dumitrescu",
+    "email": "mihai.dumitrescu@example.com",
+    "phone": "+40 733 456 123"
+  },
+  {
+    "id": "6",
+    "name": "Sorin TENE",
+    "email": "sorin.tene@gmail.com",
+    "phone": "0724 123 456"
+  }
+]
